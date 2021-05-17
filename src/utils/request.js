@@ -14,8 +14,7 @@ const CancelToken = axios.CancelToken;
 let cancelRequest;
 
 const instance = axios.create({
-  baseURL: 'http://47.98.153.247:5761/',
-  // baseURL: 'https://api.gd97.xyz/ListManagementAPI/',
+  baseURL: 'https://www.baidu.com/',
   timeout: 3000, //超时时间
   headers: {
     'Content-Type': 'application/json'
