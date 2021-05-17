@@ -13,7 +13,7 @@ import Loading from '../../components/Loading';
 class Index extends React.Component {
   state = {
     // 手机号码
-    phoneNumber: '18583708203',
+    phoneNumber: '122222',
     // 密码
     pwd: '123456',
     // 手机号码合法性
