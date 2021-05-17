@@ -5,6 +5,9 @@
 ```
 yarn 
 
+```
+# 启动鲜蘑菇
+```
 npm run android
 ```
 
@@ -27,6 +30,7 @@ npm run android
 │   │    └── images             // 图片资源
 |   |
 │   ├── utils                   // 自定义的基础工具类
+|   |     |---- request.js      //axios
 |   |
 |   |
 |   |
