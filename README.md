@@ -1,4 +1,5 @@
 # 前言
+- react native 版本：0.64
 这个项目react native集成redux、react navigation、axios、react native element的一个demo。
 
 # 安装
